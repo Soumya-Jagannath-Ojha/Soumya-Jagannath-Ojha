@@ -35,7 +35,7 @@
 
 ## 📬 Reach me out:
 <p align="left">
-<a href = "https://www.geeksforgeeks.org/user/soumyajagan29zo/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/soumya-jagannath-ojha/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Soumya_J_Ojha7/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://leetcode.com/u/Soumya_Jagannath_Ojha/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50rem" width="50rem"/></a>
   <a href = "https://www.geeksforgeeks.org/user/soumyajagan29zo/"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20210228231058/gfg.png" height="50rem" width="50rem"/></a>
