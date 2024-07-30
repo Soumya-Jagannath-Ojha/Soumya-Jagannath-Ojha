@@ -34,9 +34,23 @@
 </p>
 
 ## 📬 Reach me out:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumya-jagannath-ojha) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Soumya_J_Ojha7) 
+<p align="left">
+<a href = "www.linkedin.com/in/soumya-jagannath-ojha"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/Soumya_J_Ojha7/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://leetcode.com/u/Soumya_Jagannath_Ojha/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50rem" width="50rem"/></a>
+  <a href = "https://www.geeksforgeeks.org/user/soumyajagan29zo/"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20210228231058/gfg.png" height="50rem" width="50rem"/></a>
+
+</p>
 
 ---
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+  
 [![](https://visitcount.itsvg.in/api?id=Soumya-Jagannath-Ojha&icon=2&color=1)](https://visitcount.itsvg.in)
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
