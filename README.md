@@ -1,5 +1,8 @@
 <div align="center" >
-  <img width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="coding">
+  <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
+    <iframe src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>   
+     </iframe>
+  </div>
 </div>
 
 <h1 align="center">Hi 👋, I'm Soumya Jagannath Ojha</h1>
