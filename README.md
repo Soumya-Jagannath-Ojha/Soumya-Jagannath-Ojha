@@ -1,7 +1,6 @@
 <div align="center" >
   <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
-    <iframe src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>   
-     </iframe>
+    <img width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZtcDVoemN1eGVvYnVrb2tndTZ3bTAwOHV0ZGZzNHd3ejM4bjJ2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="coding">
   </div>
 </div>
 
