@@ -13,7 +13,7 @@
 </p>
 
 # 🙋‍♂️ About Me:
-🧑‍💻 Software Engineer sharing about my journey and learnings in tech<br>🧑‍🎓 I am currently pursuing my BTech at DRIEMS University<br>🚀 I'm currently exploring Full Stack Development<br>🔗 Know me more <a href="https://soumya-jagannath.netlify.app/" target="_blank" style="text-decoration: none;">Portfolio</a>
+🧑‍💻 Software Engineer sharing about my journey and learnings in tech<br>🧑‍🎓 I am currently pursuing my BTech at DRIEMS University<br>🚀 I'm currently exploring Full Stack Development<br>🔗 Know me more <a href="https://soumyajagannath.vercel.app/" target="_blank" style="text-decoration: none;">Portfolio</a>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
